@@ -1,0 +1,10 @@
+Declares an integer variable a and initializes it
+Declares a pointer p that stores the address of a
+Declares a pointer to the pointer pp and initializes it with the address of p.
+
+Prints the value of a directly, via the pointer p, and via the double pointer pp.
+
+pp stores the address of p
+
+*pp ==> goes to the address stored in pp ==> p==> address of a
+**pp ==> goes to the address stored in *pp ==> a ==> 10
