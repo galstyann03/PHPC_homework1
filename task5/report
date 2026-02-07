@@ -1,9 +1,0 @@
-allocates memory for one integer and p stores its address.
-then assigns a value to the allocated memory. Printing *p shows the stored value.
-
-int *arr = malloc(SIZE * sizeof(int)); allocates memory for an array of 5 integers. arr points to the first element.
-
-The loop fills the array using pointer arithmetic, moving through the memory addresses and storing values.
-Another loop prints the array
-
-free(p); free(arr); releases the memory, ensuring no memory leaks occur

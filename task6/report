@@ -1,4 +1,0 @@
-Declares a character pointer str pointing to a string literal
-Uses a separate pointer p to traverse the string and print each character
-Defines str_length(char *str) that calculates the length by moving a pointer through the string until the null character \0, counting each character
-Prints the length of the string using the str_length() function

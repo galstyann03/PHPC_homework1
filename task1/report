@@ -1,5 +1,0 @@
-Declares an integer a initializing to 10
-Declares a pointer that stores the address of a
-Prints the value of a, the address of a using the pointer, and the pointer itself
-Changes the value of a using the pointer.
-Printing a again shows the updated value, but the pointer still holds the same address of a
