@@ -1,0 +1,8 @@
+Declare a function swap(int *a, int *b) that swaps two integers using pointers.
+In main(), two integer variables are declared and initialized.
+The program prints the values of the integers before calling swap()
+swap() is called with the addresses of the two integers
+After the function call, the program prints the values again, showing that the original integers were successfully swapped.
+
+If passed the values 10, 20 but not the addresses, the function will not be able to reference the original variables and
+will only replace the local copies of the integers within the function, leaving the original values unchanged in main()
