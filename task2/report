@@ -1,0 +1,6 @@
+Declares an array of integers with 5 elements and initializes it.
+Uses the Define SIZE to not directly use the value 5, and just modifying the value of SIZE will change the size of the array and the loop that traverses it.
+Declares a pointer that points to the first element of the array.
+Uses the pointer to traverse the array and prints each element.
+Modifies the values of the array using pointer arithmetic.
+Prints the modified array using the array name this time
