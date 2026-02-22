@@ -1,5 +1,5 @@
 cmake-build-*/
-.idea/
+homework1/.idea/
 *.exe
 *.o
 *.log
