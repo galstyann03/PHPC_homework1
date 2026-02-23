@@ -4,6 +4,8 @@
 int main() {
     int arr[SIZE] = {1, 2, 3, 4, 5};
     int *p = arr;
+    printf("Pointer: %p ", p);
+    printf("Value: %d\n", *p);
 
     for (int i = 0; i < SIZE; i++) {
         printf("%d ", *(p + i));
