@@ -3,3 +3,5 @@ homework1/.idea/
 *.exe
 *.o
 *.log
+.idea/
+*.png
